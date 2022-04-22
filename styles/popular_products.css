@@ -1,0 +1,180 @@
+.popular_products {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.popular_products .products_header .products_header_name {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.popular_products .products_header .products_view {
+    margin-top: 42px;
+}
+.popular_products .products_header .products_view .products_view_green {
+    background: #76A713;
+    margin: 0;
+}
+.popular_products .products_header .products_view ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.popular_products .products_header .products_view ul li {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Gilroy-Medium,sans-serif;
+    background: #EBEBEB;
+    padding: 4px 18px 5px 19px;
+    margin-left: 10px;
+}
+.products_container_1 {
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.products_container_1 ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.products_container_1 .products_box_1_2 {
+    display: flex;
+}
+.products_container_1 .products_box_1_2 .products_icon {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.products_container_1 .products_box_1_2 .products_icon ul li {
+    display: block;
+    background: #F5F5F5;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.products_container_2 {
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.products_container_2 ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.product_box_order {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: #F8F8F8;
+}
+.product_box_order_1 {
+    padding-left: 90px;
+    text-align: center;
+}
+.product_box_order_2 {
+    padding-left: 50px;
+}
+.fruit_name {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Oswald-Medium, sans-serif;
+    padding-bottom: 9px;
+    padding-top: 46px;
+}
+.fruit_price {
+    font-family: Gilroy-Medium,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #76A713;
+}
+.fruit_button_click {
+    color: white;
+    display: inline-block;
+    background: #76A713;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-size: 16px;
+}
+.fruit_rating {
+    padding: 10px 0 30px 0;
+}
+.products_box_1 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_2 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_3 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_4 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_5 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_6 {
+    display: grid;
+    width: 370px;
+    height: 553px;
+}
+.products_box_1_2 {
+    border-top: 1px solid #76A713;
+    border-left: 1px solid #76A713;
+    border-right: 1px solid #76A713;
+}
+.products_container_1 .products_box_2 .product_box_1_3 {
+    border-top: 1px solid #DDDDDD;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.products_container_1 .products_box_3 .product_box_1_3 {
+    border-top: 1px solid #DDDDDD;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.products_container_2 .products_box_4 .product_box_1_3 {
+    border-top: 1px solid #DDDDDD;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.products_container_2 .products_box_5 .product_box_1_3 {
+    border-top: 1px solid #DDDDDD;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.products_container_2 .products_box_6 .product_box_1_3 {
+    border-top: 1px solid #DDDDDD;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+.fruit_sale {
+    color: #FFFFFF;
+    background: #FF6600;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    font-family: Gilroy-Medium,sans-serif;
+    padding: 4px 11px 4px 10px;
+    margin-top: 5px;
+}

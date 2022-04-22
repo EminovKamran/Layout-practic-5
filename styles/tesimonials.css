@@ -1,0 +1,50 @@
+.tesimonials {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.tesimonials ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+.tesimonials_box_2 {
+    position: absolute;
+    margin-left: 145px;
+    margin-bottom: 20px;
+}
+.tesimonials_box_3 {
+    position: absolute;
+    margin-left: 170px;
+}
+.tesimonials_box_4 {
+    align-items: center;
+    position: absolute;
+    margin-left: 780px;
+    background: #FFFFFF;
+    border: 1px solid #f5f5f5;
+    display: flex;
+    height: 300px;
+    width: 485px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.tesimonials_info {
+    font-size: 16px;
+    font-weight: 600;
+    color: #AAAAAA;
+    font-family: Gilroy-Medium, sans-serif;
+}
+.tesimonials_hh {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Oswald-Medium, sans-serif;
+    text-align: center;
+}
+.tesimonials_name {
+    font-size: 11px;
+    font-family: Gilroy-Medium, sans-serif;
+}

@@ -1,0 +1,56 @@
+.featured {
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.featured ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.featured .featured_box_1 {
+    background: #76A713;
+    display: flex;
+}
+.featured .featured_box_2 {
+    background: #FF6600;
+    display: flex;
+}
+.featured .featured_sale {
+    font-size: 16px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.featured .featured_offer {
+    font-size: 34px;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.featured .feature_button_1 {
+    font-size: 16px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #FF6600;
+    display: inline-block;
+    padding: 10px 18px 11px 19px;
+    margin-top: 29px;
+}
+.featured .feature_button_2 {
+    font-size: 16px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #76A713;
+    display: inline-block;
+    padding: 10px 18px 11px 19px;
+    margin-top: 29px;
+}
+.featured .featured_info {
+    padding: 46px 39px 1px 0;
+}

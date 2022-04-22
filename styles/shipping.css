@@ -1,0 +1,35 @@
+.shipping {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 74px 0;
+    position: relative;
+    width: 100%;
+    background: #FFFFFF;
+    border: 1.5px solid #DDDDDD;
+    align-items: center;
+    bottom: 111px;
+}
+.shipping .box {
+
+}
+.shipping .box ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+}
+.shipping .box .box_name {
+    font-size: 20px;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.box .box_name span {
+    font-family: Gilroy-Medium,sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #666666;
+}
+

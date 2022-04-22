@@ -1,0 +1,43 @@
+.subscribe {
+    background-image: url("/img/BG_fruit_salad.png");
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    height: 250px;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: -260px;
+}
+.subscribe ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    direction: rtl;
+}
+.subscribe_box_1 img {
+    position: absolute;
+    margin-top: -107px;
+}
+.subscribe_box_3 {
+    padding-right: 111px;
+    padding-top: 48px
+}
+.subscribe_box_2 img {
+    padding-left: 400px;
+    padding-top: 100px;
+}
+.subscribe_box_2_name {
+    font-size: 60px;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.subscribe_box_2_button {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Gilroy-Medium, sans-serif;
+    font-weight: bold;
+    background: #FF6600;
+    display: inline-block;
+    padding: 10px 12px 11px 12px;
+}

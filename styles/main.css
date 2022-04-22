@@ -1,0 +1,58 @@
+main {
+    background-image: url("/img/fon_main.png");
+    height: 700px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+main .container_1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+main .container_1 .container_column_1 {
+    display: flex;
+    align-items: center;
+}
+main .container_1 .container_column_1 ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+main .container_1 .container_column_1 .container_1_name {
+    font-family: Oswald-Medium,sans-serif;
+    font-size: 50px;
+    color: #76A713;
+}
+main .container_1 .container_column_1 .container_1_info {
+    font-family: Oswald-Medium, sans-serif;
+    font-size: 80px;
+}
+main .container_1 .container_column_1 .container_1_info_2 {
+    font-family: Oswald-Medium, sans-serif;
+    font-size: 80px;
+}
+main .container_1 .container_column_1 .container_1_button {
+    display: inline-block;
+    background: #76A713;
+    padding: 15px 37px 16px 38px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 700;
+    margin-top: 28px;
+}
+main .container_1 .container_column_2 ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+main .container_1 .container_column_2 .container_2_image {
+    position: absolute;
+    margin-left: -590px;
+}
+

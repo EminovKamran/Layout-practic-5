@@ -1,0 +1,85 @@
+header  {
+    margin: 0 auto;
+    max-width: 1170px;
+    margin-bottom: 30px;
+}
+header .nav_bar_top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 46px;
+}
+header .nav_bar_left {
+    display: flex;
+}
+header .nav_bar_right {
+    display: flex;
+    align-items: center;
+}
+header .nav_bar_left .nav_bar_description {
+    padding-left: 8px;
+    font-family: Gilroy-Medium, sans-serif;
+    font-size: 13px;
+}
+header .nav_bar_left .nav_bar_icon {
+    padding-left: 29px;
+}
+header .nav_bar_right .nav_bar_lang {
+    font-family: Gilroy-Medium, sans-serif;
+    font-size: 13px;
+    padding-right: 5px;
+}
+header .nav_bar_right .nav_bar_vector {
+    padding-right: 11px;
+}
+header .nav_bar_right .nav_bar_social {
+    padding-left: 20px;
+}
+header .nav_bar_bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .nav_bar_bottom .nav_bar_menu ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+header .nav_bar_bottom .nav_menu {
+    padding-right: 30px;
+    font-size: 16px;
+    font-family: Gilroy-Medium,sans-serif;
+}
+header .nav_bar_bottom .nav_menu_green {
+    padding-right: 30px;
+    font-size: 16px;
+    font-family: Gilroy-Medium,sans-serif;
+    color: #76A713;;
+}
+header .nav_menu_button {
+    font-size: 16px;
+    font-family: Gilroy-Medium, sans-serif;
+    margin-left: 18px;
+    display: inline-block;
+    background: #76A713;
+    padding: 10px 29px 11px 30px;
+}
+header .nav_menu_order_1 img {
+    margin-left: 10px;
+    display: inline-block;
+    background: #EEEEEE;
+    padding: 13px 14px;
+}
+header .nav_menu_order_2 img {
+    margin-left: 10px;
+    display: inline-block;
+    background: #EEEEEE;
+    padding: 13px 14px;
+}
+header .nav_bar_bottom .nav_bar_order {
+    display: flex;
+}
+
+
+

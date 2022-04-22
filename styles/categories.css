@@ -1,0 +1,59 @@
+.categories {
+    background-image: url("/img/BG.png");
+    opacity: 1;
+    margin: 100px 0;
+}
+.categories .categories_fruit {
+    max-width: 1170px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 100px;
+}
+.categories .categories_fruit ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    background: border-box;
+    border: 1px solid #76A713;
+}
+.categories .categories_fruit .fruit_name {
+    font-size: 30px;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 500;
+    padding: 3px 0 13px 0;
+}
+.categories .categories_fruit .fruit_name_green {
+    font-size: 30px;
+    font-family: Oswald-Medium, sans-serif;
+    font-weight: 500;
+    color: #76A713;
+    padding: 3px 0 13px 0;
+}
+.categories .categories_fruit .fruit_info {
+    padding-bottom: 27px;
+    font-family: Gilroy-Medium, sans-serif;
+    font-size: 16px;
+    color: #888888;
+    padding-left: 23px;
+    padding-right: 23px;
+}
+.categories .categories_fruit .fruit_button {
+    background: border-box;
+    border: 1px solid #76A713;
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.categories .categories_fruit .fruit_button_shop {
+    color: white;
+    display: inline-block;
+    background: #76A713;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-family: Gilroy-Medium,sans-serif;
+    font-size: 16px;
+}
+
